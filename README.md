@@ -22,7 +22,7 @@ The Open Receipt Format ecosystem is composed of **three distinct layers**, each
 
 - **ORF-Specifications**
 Standard
-- **Tommy-the-Tapi**
+- **Tommy-the-Tapir**
 Receipt Claim Layer
 - **Recipta**
 Personal Recipt Vault
