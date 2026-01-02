@@ -21,11 +21,11 @@ It is an open foundation for receipt interoperability.
 The Open Receipt Format ecosystem is composed of **three distinct layers**, each with a clearly defined responsibility.
 
 - **ORF-Specifications**
---Standard
+-Standard
 - **Tommy-the-Tapi**
---Receipt Claim Layer
+-Receipt Claim Layer
 - **Recipta**
---Personal Recipt Vault
+- Personal Recipt Vault
 
 
 ---
