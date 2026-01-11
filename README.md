@@ -46,7 +46,7 @@ ORF does not:
 - Track consumers
 - Mandate storage locations
 
-📦 Repository: `orf-spec`
+📦 Repository: `orf-spec`: https://openreceiptformat.github.io/orf-spec/spec/ORF-v1.0.html
 
 ---
 
@@ -67,7 +67,7 @@ Key properties:
 
 Tommy enables modern, cart-like interactions in physical spaces without requiring merchants to replace their POS.
 
-📦 Repository: `tommy-the-tapir`
+📦 Repository: `tommy-the-tapir`: https://github.com/openreceiptformat/Tommy-the-Tapir
 
 ---
 
@@ -88,7 +88,7 @@ Recipta:
 Recipta is not a fintech app or accounting platform.  
 It is a personal data tool.
 
-📦 Repository: `recipta`
+📦 Repository: `recipta`: https://github.com/openreceiptformat/recipta
 
 ---
 
